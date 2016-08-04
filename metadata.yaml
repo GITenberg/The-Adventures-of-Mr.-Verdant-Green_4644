@@ -1,0 +1,31 @@
+_repo: The-Adventures-of-Mr.-Verdant-Green_4644
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bede, Cuthbert
+    alias: Bradley, Edward
+    birthdate: 1827
+    deathdate: 1889
+    gutenberg_agent_id: '1528'
+    url: http://www.gutenberg.org/2009/agents/1528
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bradley_(writer)
+description: v. 1. The adventures of Mr. Verdant Green, an Oxford freshman -- v. 2.
+  The further adventures of Mr. Verdant Green, an Oxford undergraduate -- v. 3. Mr.
+  Verdant Green, married and done for.
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4644'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'University of Oxford -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'The adventures of Mr. Verdant Green, an Oxford freshman -- The further
+  adventures of Mr. Verdant Green, an Oxford undergraduate -- Mr. Verdant Green: Married
+  and done for.'
+title: The Adventures of Mr. Verdant Green
+url: http://www.gutenberg.org/ebooks/4644
