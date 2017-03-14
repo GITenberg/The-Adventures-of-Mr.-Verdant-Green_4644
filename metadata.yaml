@@ -1,5 +1,8 @@
 _repo: The-Adventures-of-Mr.-Verdant-Green_4644
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bede, Cuthbert
@@ -12,6 +15,8 @@ creator:
 description: v. 1. The adventures of Mr. Verdant Green, an Oxford freshman -- v. 2.
   The further adventures of Mr. Verdant Green, an Oxford undergraduate -- v. 3. Mr.
   Verdant Green, married and done for.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4644#The-Adventures-of-Mr.-Verdant-Green
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
